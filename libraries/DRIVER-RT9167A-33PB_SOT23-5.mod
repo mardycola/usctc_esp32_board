@@ -1,0 +1,90 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+SOT-23-5
+$EndINDEX
+$MODULE SOT-23-5
+Po 0 0 0 15 00000000 00000000 ~~
+Li SOT-23-5
+Cd <b>Small Outline Transistor</b>
+Sc 00000000
+At SMD
+Op 0 0 0
+.SolderMask 0
+.SolderPaste 0
+T0 -2.35115 -0.508362 0.700493 0.700493 900 0.05 N V 21 "SOT-23-5"
+T1 2.09595 -0.952697 0.700147 0.700147 900 0.05 N V 21 "VAL**"
+DS 1.4224 0.8104 -1.4224 0.8104 0.1524 24
+DS -1.4224 -0.8104 1.4224 -0.8104 0.1524 24
+DP 0 0 0 0 4 0 24
+Dl -1.20239 0.85
+Dl -0.7 0.85
+Dl -0.7 1.50298
+Dl -1.20239 1.50298
+DP 0 0 0 0 4 0 24
+Dl -0.250432 0.85
+Dl 0.25 0.85
+Dl 0.25 1.50259
+Dl -0.250432 1.50259
+DP 0 0 0 0 4 0 24
+Dl 0.701104 0.85
+Dl 1.2 0.85
+Dl 1.2 1.50237
+Dl 0.701104 1.50237
+DP 0 0 0 0 4 0 24
+Dl 0.701297 -1.5
+Dl 1.2 -1.5
+Dl 1.2 -0.851575
+Dl 0.701297 -0.851575
+DP 0 0 0 0 4 0 24
+Dl -1.20009 -1.5
+Dl -0.7 -1.5
+Dl -0.7 -0.850061
+Dl -1.20009 -0.850061
+DP 0 0 0 0 4 0 26
+Dl -1.39832 -0.762
+Dl 1.397 -0.762
+Dl 1.397 0.762719
+Dl -1.39832 0.762719
+$PAD
+Sh "1" R 0.69 1.2 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.95 1.3001
+$EndPAD
+$PAD
+Sh "2" R 0.69 1.2 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0 1.3001
+$EndPAD
+$PAD
+Sh "3" R 0.69 1.2 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.95 1.3001
+$EndPAD
+$PAD
+Sh "4" R 0.69 1.2 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.95 -1.3001
+$EndPAD
+$PAD
+Sh "5" R 0.69 1.2 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.95 -1.3001
+$EndPAD
+$EndMODULE SOT-23-5

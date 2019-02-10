@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CN3083
+D Lithium Ion Battery Charger for Solar-Powered Systems CN3083
+F https://upverter.com/datasheet/c880bcca43363097a363e4f9d39f8c4a8d045336.pdf
+$ENDCMP
+#
+#End Doc Library

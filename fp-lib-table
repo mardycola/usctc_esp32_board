@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name cp2102-qfn28_vergil)(type KiCad)(uri ${KIPRJMOD}/libraries/cp2102-qfn28_vergil.pretty)(options "")(descr ""))
+  (lib (name esp-32_wroom32_vergil)(type KiCad)(uri ${KIPRJMOD}/libraries/esp-32_wroom32_vergil.pretty)(options "")(descr ""))
+  (lib (name QUICKTEL_L80)(type KiCad)(uri ${KIPRJMOD}/libraries/QUICKTEL_L80.pretty)(options "")(descr ""))
+  (lib (name rfm95w_vergil)(type KiCad)(uri ${KIPRJMOD}/libraries/rfm95w_vergil.pretty)(options "")(descr ""))
+  (lib (name tps63031dskr_vergil)(type KiCad)(uri ${KIPRJMOD}/libraries/tps63031dskr_vergil.pretty)(options "")(descr ""))
+  (lib (name CN3083)(type Legacy)(uri ${KIPRJMOD}/libraries/CN3083.mod)(options "")(descr ""))
+  (lib (name iotcebu)(type KiCad)(uri ${KIPRJMOD}/libraries/iotcebu.pretty)(options "")(descr ""))
+)

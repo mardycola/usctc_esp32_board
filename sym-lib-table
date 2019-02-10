@@ -1,0 +1,12 @@
+(sym_lib_table
+  (lib (name mbediotboard-rescue)(type Legacy)(uri ${KIPRJMOD}/mbediotboard-rescue.lib)(options "")(descr ""))
+  (lib (name CN3083)(type Legacy)(uri ${KIPRJMOD}/libraries/CN3083.lib)(options "")(descr ""))
+  (lib (name cp2102-qfn28_vergil)(type Legacy)(uri ${KIPRJMOD}/libraries/cp2102-qfn28_vergil.lib)(options "")(descr ""))
+  (lib (name esp-32_wroom32_vergil)(type Legacy)(uri ${KIPRJMOD}/libraries/esp-32_wroom32_vergil.lib)(options "")(descr ""))
+  (lib (name L80-M39)(type Legacy)(uri ${KIPRJMOD}/libraries/L80-M39.lib)(options "")(descr ""))
+  (lib (name rfm95W_vergil)(type Legacy)(uri ${KIPRJMOD}/libraries/rfm95W_vergil.lib)(options "")(descr ""))
+  (lib (name SI2305CDS-T1-G3_vergil)(type Legacy)(uri ${KIPRJMOD}/libraries/SI2305CDS-T1-G3_vergil.lib)(options "")(descr ""))
+  (lib (name tps63031dskr_vergil)(type Legacy)(uri ${KIPRJMOD}/libraries/tps63031dskr_vergil.lib)(options "")(descr ""))
+  (lib (name seeed_opl)(type Legacy)(uri ${KIPRJMOD}/libraries/seeed_opl.lib)(options "")(descr ""))
+  (lib (name DRIVER-RT9167A-33PB_SOT23-5)(type Legacy)(uri ${KIPRJMOD}/libraries/DRIVER-RT9167A-33PB_SOT23-5.lib)(options "")(descr ""))
+)
